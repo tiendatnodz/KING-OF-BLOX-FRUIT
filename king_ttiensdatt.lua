@@ -3,8 +3,8 @@ local REAL_TIENDATNODZ_VERSION = REAL_TIENDATNODZ_VERSION or _ENV.REAL_TIENDATNO
 
 local Scripts = {
 	{
-		PlacesIds = {2753915549, 4442272183, 7449423635},
-		UrlPath = if BETA_VERSION then "BLOX-FRUITS-BETA.lua" else "BloxFruits.luau" 
+		PlacesIds = {8227110001, 8227110001, 8227110001},
+		UrlPath = if BETA_VERSION then "BLOX-FRUITS-REAL-TIENDSTNODZ-VERSION.lua" else "BloxFruits.luau" 
 	},
 	{
 		PlacesIds = {10260193230},
